@@ -27,4 +27,4 @@ weather-app/
 3. Open index.html in browser
 
 ## 👨‍💻 Author
-Your Name
+Kalisetti Yogeswari
